@@ -8,3 +8,7 @@ tensorflow-gpu=1.9.0，keras=2.2.2，matplotlib=3.0.3，opencv，easydict，zhon
 crnn用于字符识别，darknet用于车牌检测，pytorch_direct用于车牌校正
 
 主要函数位于plate_recognition.py
+
+车牌检测模型：
+链接：https://pan.baidu.com/s/1XguRFMPF-DnNmrS6V6qgoQ 
+提取码：zf29 
