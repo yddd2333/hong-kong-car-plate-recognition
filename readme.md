@@ -9,6 +9,6 @@ crnn用于字符识别，darknet用于车牌检测，pytorch_direct用于车牌�
 
 主要函数位于plate_recognition.py
 
-车牌检测模型：
+车牌检测模型文件：
 链接：https://pan.baidu.com/s/1XguRFMPF-DnNmrS6V6qgoQ 
 提取码：zf29 
