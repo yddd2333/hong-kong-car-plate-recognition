@@ -16,3 +16,8 @@ crnn用于字符识别，darknet用于车牌检测，pytorch_direct用于车牌�
 车牌检测模型文件：
 链接：https://pan.baidu.com/s/1XguRFMPF-DnNmrS6V6qgoQ 
 提取码：zf29 
+
+![Res1]https://github.com/yddd2333/hong-kong-car-plate-recognition/blob/main/resBaidu_0123.jpeg
+![Res2]https://github.com/yddd2333/hong-kong-car-plate-recognition/blob/main/resBaidu_0074.jpeg
+![Res3]https://github.com/yddd2333/hong-kong-car-plate-recognition/blob/main/resBaidu_0071.jpeg
+![Res4]https://github.com/yddd2333/hong-kong-car-plate-recognition/blob/main/resBing_0704.jpeg
